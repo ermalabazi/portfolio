@@ -1,3 +1,3 @@
 # Portfolio
 
-Documenting my journey
+Documenting my journey as new developer
